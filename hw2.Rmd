@@ -16,3 +16,11 @@ str(iris)
 #summary()
 ```
 
+# Problem 2:
+
+The sample median of the variable Petail.With is  
+```{r}
+median(iris$Petal.Width)
+```
+
+
