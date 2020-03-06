@@ -16,14 +16,3 @@ str(iris)
 #summary()
 ```
 
-# Problem 2:
-
-The sample median of the variable Petail.With is  
-
-# Problem 3: Draw a histograms of the Sepal.Length variable
-
-```{r}
-hist()
-```
-
-# Problem 4: Draw a scatter plot 
