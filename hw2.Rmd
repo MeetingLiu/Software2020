@@ -23,4 +23,9 @@ The sample median of the variable Petail.With is
 median(iris$Petal.Width)
 ```
 
+# Problem 3: Draw a histograms of the Sepal.Length variable
+
+```{r}
+hist(iris$Petal.Length)
+```
 
